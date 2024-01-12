@@ -1,0 +1,33 @@
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+
+ body {
+    background: url(img/bg.svg);
+    background-position: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+ }
+
+ img {  
+    height: 500px;
+    position: relative;
+    left: 700px;
+    top: -60px;
+ }
+ .container {   
+    font-size: 20px;
+    width: 370px;
+    position: relative;
+    left: 220px;
+    top: 80px;
+ }
+
+ h1 {
+    margin-bottom: 24px;
+ }
+ 
